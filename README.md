@@ -161,12 +161,7 @@ This version monitors a single GPU instance. It does not yet include multi-node 
 
 ---
 
-## 4. LinkedIn headline update
 
-Use this in your LinkedIn headline:
-
-```text
-Building GPUFlow | GPU Infrastructure & AI Compute Optimization | AWS Certified | Prometheus/Grafana | Python | Kubernetes Learner
 
 Stronger version:
 
